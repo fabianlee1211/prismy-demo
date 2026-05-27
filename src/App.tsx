@@ -70,6 +70,12 @@ function App() {
                 {t('learnMore')}
               </a>
             </li>
+            <li>
+              <a href="https://react.dev/" target="_blank">
+                <img className="button-icon" src={reactLogo} alt="" />
+                {t('thisIsPrimsy')}
+              </a>
+            </li>
           </ul>
         </div>
         <div id="social">
