@@ -1,11 +1,12 @@
 {
-  "getStarted": "Comece agora",
-  "editAndSave": "Edite <code>src/App.tsx</code> e salve para testar o <code>HMR</code>",
+  "connectWithUs": "Conecte-se conosco",
   "countIs": "Contagem: {{count}}",
   "documentation": "Documentação",
-  "yourQuestions": "Suas perguntas, respondidas",
+  "editAndSave": "Edite <code>src/App.tsx</code> e salve para testar o <code>HMR</code>",
   "exploreVite": "Explorar Vite",
+  "getStarted": "Comece agora",
+  "joinCommunity": "Junte-se à comunidade Vite",
   "learnMore": "Saiba mais",
-  "connectWithUs": "Conecte-se conosco",
-  "joinCommunity": "Junte-se à comunidade Vite"
+  "thisIsPrimsy": "Isto é Primsy",
+  "yourQuestions": "Suas perguntas, respondidas"
 }
