@@ -1,0 +1,11 @@
+{
+  "getStarted": "开始使用",
+  "editAndSave": "编辑 <code>src/App.tsx</code> 并保存以测试 <code>HMR</code>",
+  "countIs": "计数：{{count}}",
+  "documentation": "文档",
+  "yourQuestions": "你的问题，已解答",
+  "exploreVite": "探索 Vite",
+  "learnMore": "了解更多",
+  "connectWithUs": "联系我们",
+  "joinCommunity": "加入 Vite 社区"
+}
