@@ -1,11 +1,11 @@
 {
-  "getStarted": "开始使用",
-  "editAndSave": "编辑 <code>src/App.tsx</code> 并保存以测试 <code>HMR</code>",
+  "connectWithUs": "联系我们 Sleekflow",
   "countIs": "计数：{{count}}",
   "documentation": "文档",
-  "yourQuestions": "你的问题，已解答",
+  "editAndSave": "编辑 <code>src/App.tsx</code> 并保存以测试 <code>HMR</code>",
   "exploreVite": "探索 Vite",
+  "getStarted": "开始使用",
+  "joinCommunity": "加入 Vite 社区",
   "learnMore": "了解更多",
-  "connectWithUs": "联系我们",
-  "joinCommunity": "加入 Vite 社区"
+  "yourQuestions": "你的问题，已解答"
 }
